@@ -26,43 +26,43 @@
     </ul>
   </div>
 
-  <!-- 工作经历（按时间倒序，重点突出） -->
-  <div style="margin: 30px 0;">
-    <h2 style="font-size: 20px; font-weight: bold; color: #2c3e50; border-left: 4px solid #0366d6; padding-left: 10px;">
-      📝 工作经历
-    </h2>
+  <!-- 工作经历（纯HTML写法，无Markdown嵌套） -->
+<div style="margin: 30px 0;">
+  <h2 style="font-size: 20px; font-weight: bold; color: #2c3e50; border-left: 4px solid #0366d6; padding-left: 10px;">
+    📝 工作经历
+  </h2>
 
-    <!-- 经历1：最新/最核心 -->
-    <div style="margin: 20px 0; padding: 15px; background-color: #f8f9fa; border-radius: 6px;">
-      <h3 style="font-size: 18px; font-weight: bold; color: #2c3e50; margin: 0;">
-        公司名称 | 岗位名称
-      </h3>
-      <p style="font-size: 14px; color: #666; margin: 5px 0 10px 0;">
-        工作时间：XXXX.XX – XXXX.XX | 工作地点：XX城市
-      </p>
-      <ul style="padding-left: 20px; margin: 0;">
-        <li style="margin: 8px 0;">负责XX产品线的XX模块开发/维护，主导XX需求的落地，覆盖XX用户群体；</li>
-        <li style="margin: 8px 0;">解决XX技术痛点（如：页面加载慢/兼容性问题），<span style="color: #e74c3c; font-weight: bold;">核心指标提升XX%</span>；</li>
-        <li style="margin: 8px 0;">参与XX团队建设（如：组件库/规范制定），提升团队研发效率XX%；</li>
-        <li style="margin: 8px 0;">技术栈：XX, XX, XX（如：Vue3, TypeScript, Element Plus）；</li>
-      </ul>
-    </div>
-
-    <!-- 经历2：次要经历 -->
-    <div style="margin: 20px 0; padding: 15px; background-color: #f8f9fa; border-radius: 6px;">
-      <h3 style="font-size: 18px; font-weight: bold; color: #2c3e50; margin: 0;">
-        公司名称 | 岗位名称
-      </h3>
-      <p style="font-size: 14px; color: #666; margin: 5px 0 10px 0;">
-        工作时间：XXXX.XX – XXXX.XX | 工作地点：XX城市
-      </p>
-      <ul style="padding-left: 20px; margin: 0;">
-        <li style="margin: 8px 0;">协助XX核心功能开发，完成XX需求的编码/测试/上线；</li>
-        <li style="margin: 8px 0;">学习并落地XX技术，解决XX类常见问题；</li>
-        <li style="margin: 8px 0;">技术栈：XX, XX, XX；</li>
-      </ul>
-    </div>
+  <!-- 经历1：最新/最核心 -->
+  <div style="margin: 20px 0; padding: 15px; background-color: #f8f9fa; border-radius: 6px;">
+    <h3 style="font-size: 18px; font-weight: bold; color: #2c3e50; margin: 0;">
+      公司名称 | 岗位名称
+    </h3>
+    <p style="font-size: 14px; color: #666; margin: 5px 0 10px 0;">
+      工作时间：XXXX.XX – XXXX.XX | 工作地点：XX城市
+    </p>
+    <ul style="padding-left: 20px; margin: 0; list-style: disc;">
+      <li style="margin: 8px 0;">负责XX产品线的XX模块开发/维护，主导XX需求的落地，覆盖XX用户群体；</li>
+      <li style="margin: 8px 0;">解决XX技术痛点（如：页面加载慢/兼容性问题），<span style="color: #e74c3c; font-weight: bold;">核心指标提升XX%</span>；</li>
+      <li style="margin: 8px 0;">参与XX团队建设（如：组件库/规范制定），提升团队研发效率XX%；</li>
+      <li style="margin: 8px 0;">技术栈：XX, XX, XX（如：Vue3, TypeScript, Element Plus）；</li>
+    </ul>
   </div>
+
+  <!-- 经历2：次要经历 -->
+  <div style="margin: 20px 0; padding: 15px; background-color: #f8f9fa; border-radius: 6px;">
+    <h3 style="font-size: 18px; font-weight: bold; color: #2c3e50; margin: 0;">
+      公司名称 | 岗位名称
+    </h3>
+    <p style="font-size: 14px; color: #666; margin: 5px 0 10px 0;">
+      工作时间：XXXX.XX – XXXX.XX | 工作地点：XX城市
+    </p>
+    <ul style="padding-left: 20px; margin: 0; list-style: disc;">
+      <li style="margin: 8px 0;">协助XX核心功能开发，完成XX需求的编码/测试/上线；</li>
+      <li style="margin: 8px 0;">学习并落地XX技术，解决XX类常见问题；</li>
+      <li style="margin: 8px 0;">技术栈：XX, XX, XX；</li>
+    </ul>
+  </div>
+</div>
 
   <!-- 重点项目（可选，突出核心成果） -->
   <div style="margin: 30px 0;">
