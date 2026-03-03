@@ -93,4 +93,29 @@
         <td style="padding: 8px 0;">Python、Flask、Shell、SQL、Gunicorn</td>
       </tr>
       <tr style="border-bottom: 1px solid #eee;">
-        <td style="width: 20%
+        <td style="width: 20%; padding: 8px 0; font-weight: bold;">工具/框架</td>
+        <td style="padding: 8px 0;">Docker、Ansible、Consul、Nginx、Redis</td>
+      </tr>
+      <tr>
+        <td style="width: 20%; padding: 8px 0; font-weight: bold;">其他能力</td>
+        <td style="padding: 8px 0;">代码阅读、接口调优、技术选型</td>
+      </tr>
+    </table>
+  </div>
+
+  <div style="margin: 30px 0;">
+    <h2 style="font-size: 20px; font-weight: bold; color: #2c3e50; border-left: 4px solid #0366d6; padding-left: 10px;">
+      📚 补充信息
+    </h2>
+    <ul style="padding-left: 20px; margin-top: 10px;">
+      <li style="margin: 8px 0;"><strong>教育背景：</strong>南京邮电大学 电子与通信工程专业 | 2015.9 – 2018.04 | 学历：硕士</li>
+      <li style="margin: 8px 0;"><strong>教育背景：</strong>南京邮电大学 电子信息工程专业 | 2010.9 – 2014.06 | 学历：本科</li>
+      <li style="margin: 8px 0;"><strong>证书：</strong>英语六级</li>
+    </ul>
+  </div>
+
+  <div style="margin-top: 40px; padding-top: 20px; border-top: 1px solid #eee; text-align: center; color: #666; font-size: 14px;">
+    最后更新：2026年03月 | 本简历由 GitHub Pages 托管，移动端/PC端均适配
+  </div>
+
+</div>
